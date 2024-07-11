@@ -28,43 +28,19 @@
             }
           },
           {
-            "id": "97cad59db48f691b",
+            "id": "fd86410c7dc30a5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diabetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7b7a7ec609c9386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Type 1 Diabetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0695f5aee152550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Type 2 Diabetes.md",
+                "file": "Thyroid Gland.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "microvascular",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -139,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pituitary Gland.md",
+                "file": "Thyroid Gland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pituitary Gland.md",
+                "file": "Thyroid Gland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pituitary Gland.md"
+                "file": "Thyroid Gland.md"
               }
             }
           }
@@ -204,22 +181,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "143e4b7ae4aa84ab",
+  "active": "fd86410c7dc30a5e",
   "lastOpenFiles": [
-    "images/Pituitary Gland-20240709123551340.png",
-    "images/Pituitary Gland-20240709123532076.png",
+    "images/Thyroid Gland-20240711213043723.png",
+    "images/Thyroid Gland-20240711213011607.png",
+    "images/Thyroid Gland-20240711212828373.png",
+    "images/Thyroid Gland-20240711212802918.png",
+    "images/Thyroid Gland-20240711211842750.png",
+    "images/Thyroid Gland-20240711211316921.png",
+    "images/Thyroid Gland-20240711211244549.png",
+    "Thyroid Gland.md",
+    "images/Thyroid Gland-20240711210817078.png",
+    "images/Thyroid Gland-20240711210621625.png",
+    "images/Thyroid Gland-20240711210511552.png",
+    "images/Thyroid Gland-20240711210014523.png",
     "Pituitary Gland.md",
-    "images/Pituitary Gland-20240709122706354.png",
-    "images/Pituitary Gland-20240709122632433.png",
-    "images/Pituitary Gland-20240709122537891.png",
-    "images/Pituitary Gland-20240709122525497.png",
-    "images/Pituitary Gland-20240709122257508.png",
-    "images/Pituitary Gland-20240709122254105.png",
     "Type 2 Diabetes.md",
-    "images/Type 2 Diabetes-20240709121947634.png",
     "Type 1 Diabetes.md",
-    "images/Type 1 Diabetes-20240709121350812.png",
-    "images/Type 1 Diabetes-20240709121045782.png",
     "Diabetes.md",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Pancreas.md",

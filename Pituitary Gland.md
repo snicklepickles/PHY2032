@@ -53,15 +53,8 @@
 4. Upon binding to specific membrane-bound receptors, hypothalamic hormones stimulate or inhibit the secretion of anterior pituitary hormones
 ![[Pituitary Gland-20240709123551340.png]]
 - Minimises unintended effects in the body from systemic circulation
-#### Neural Control
-- Neurons of the hypothalamus receive **stimulatory** & **inhibitory** synaptic input from virtually **all areas of the CNS**
-- Specific neural pathways influence the secretion of the individual hypophysiotropic hormones
-![](https://remnote-user-data.s3.amazonaws.com/PL31hmxglQW7aR5b4MiFX4iexdmHAcJG844OiX1bJeHZPRFqNaS_4pP2snv3doq5VieWzMY7OjZl0pJrDCwMpMaW26kt5JA1eT-wFoap5JDfHNYQFrlJLEpit0ueJFyQ.png)
-- Strong **circadian** influence over the secretion of certain hypophysiotropic hormones
-	- Neural inputs arise from other regions of the hypothalamus
-	- Linked to inputs from the visual pathways (recognise presence/absence of light)
-	- E.g., CRH release is tied to the day-night cycle
-		- Results in ACTH & cortisol (controlled by CRH) increasing in blood just prior to waking period
-#### Structure
-![](https://remnote-user-data.s3.amazonaws.com/pjf6zw52VkLvh9jH5VZf-BS-JlYHn0RFR8H-E1GEUukAWOfZhYnS0863sUv7VXRxlJ1OUKS3nXBYrc9epKw6Ka_SEro3-93tt_nntX0wLcEkSwiuphlpRmSq9qjBVPD9.png)
-- TRH = glutamine + histidine + proline
+### Anterior Pituitary Hormones
+- Control, growth, metabolism & reproduction
+![[Pituitary Gland-20240711204459729.png]]
+## Negative Feedback of Hormones
+![[Pituitary Gland-20240711204610234.png]]
