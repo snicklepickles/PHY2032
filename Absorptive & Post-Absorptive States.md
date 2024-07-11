@@ -1,5 +1,8 @@
 #Metabolism 
 
+![[Endocrine Regulation of Organic Metabolism-20240708222401591.png]]
+![[Endocrine Regulation of Organic Metabolism-20240708222428984.png]]
+![[Endocrine Regulation of Organic Metabolism-20240708222443903.png]]
 * Regular availability of food only in *recent* human history
 	* Mechanisms have evolved for survival during alternating periods of feast & famine
 * Body undergoes 2 functional states to provide energy for cellular activities:
@@ -30,7 +33,7 @@
 * All tissues: Catabolised to $\text{CO}_{2} + \text{H}_2\text{O}+\:$energy for ATP formation
 * Muscle → glycogen
 * Liver → glycogen/glycerol 3-phosphate/fatty acids
-## Postabsorptive State
+## Post-Absorptive State
 - Net *catabolism* of protein, triglyceride & glycogen
 ![[Absorptive & Postabsorptive States-20240703180901938.png]]
 - Maintains blood glucose levels

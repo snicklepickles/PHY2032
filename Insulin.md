@@ -1,5 +1,4 @@
 #Metabolism 
-
 ## Synthesis of Insulin
 ![[Endocrine Regulation of Organic Metabolism-20240708224409171.png]]
 - In the $\beta$ cell, proinsulin → insulin
@@ -48,6 +47,31 @@
 - When insulin binds, constraints are released
 	- Kinase domains first phosphorylate & activate each other
 	- Then phosphorylate other proteins in the signalling network inside the cell
-### Insulin Signalling Pathway
+## Insulin Signalling Pathway
 ![[Endocrine Regulation of Organic Metabolism-20240708231917867.png]]
-- Akt protein kinase orchestrates numerous metabolic actions of insulin in hepatocytes, skeletal muscle & adipocytes
+- *Akt protein kinase* orchestrates the numerous metabolic actions of insulin in hepatocytes, skeletal muscle & adipocytes
+![[Insulin-20240709003135613.png]]
+- **GLUT4** glucose transporter
+	- Translocated from GLUT4 vesicles to cell membrane
+	- Import glucose into *skeletal myocytes & adipocytes*
+- Protein **phosphatases**
+	- *Regulate* activity of multiple metabolic *enzymes*
+- Protein complex **mTORC1**
+	- Promotes protein synthesis
+	- Inhibits proteasome-mediated protein degradation
+- Transcription factor **SREPB-1C**
+	- Orchestrates glycolysis & de novo lipogenesis (DNL) in the *liver*
+		- DNL: Production of phospholipids, fatty acids & triglycerides from *excess* glucose & fructose
+	- Major contributor to the *obesity* epidemic
+- Transcription factor **FOXO1**
+	- Gluconeogenesis
+	- Hepatic assembly & export of very low density lipoproteins (VLDL)
+## Glucose Transporters
+![[Insulin-20240709003523175.png]]
+- GLUT1 is **not** insulin-dependent
+	- *Always* present in the plasma membrane
+	- Even when plasma insulin is low, brain cells can function
+## [[Absorptive & Post-Absorptive States#Absorptive State|Absorptive State]]
+![[Insulin-20240709003827557.png]]
+![[Insulin-20240709004036854.png]]
+
