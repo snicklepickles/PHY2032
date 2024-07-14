@@ -71,7 +71,7 @@
 - GLUT1 is **not** insulin-dependent
 	- *Always* present in the plasma membrane
 	- Even when plasma insulin is low, brain cells can function
-## [[Absorptive & Post-Absorptive States#Absorptive State|Absorptive State]]
+## [[Metabolic States#Absorptive State|Absorptive State]]
 ![[Insulin-20240709003827557.png]]
 ![[Insulin-20240709004036854.png]]
 

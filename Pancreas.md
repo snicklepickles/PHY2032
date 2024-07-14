@@ -2,7 +2,7 @@
 
 - Secretes **insulin** & **glucagon**
 	- Polypeptide hormones secreted by the [[Pancreas#Islets of Langerhans|Islets of Langerhans]]
-	- Control the transition from [[Absorptive & Post-Absorptive States#Absorptive State|absorptive]] → [[Absorptive & Post-Absorptive States#Postabsorptive State|post-absorptive]]
+	- Control the transition from [[Metabolic States#Absorptive State|absorptive]] → [[Metabolic States#Postabsorptive State|post-absorptive]]
 ## Islets of Langerhans 
 - 100-200 microns in diameter
 - Contain ~1000 endocrine cells

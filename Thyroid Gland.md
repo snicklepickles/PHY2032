@@ -1,4 +1,4 @@
-#Metabolism 
+#Growth
 
 - Unlike many hormones, thyroid hormones act on multiple tissues & organs
 	- Changes in levels → systemic effects

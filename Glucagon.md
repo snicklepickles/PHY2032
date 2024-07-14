@@ -7,7 +7,7 @@
 - Small protein; half life <5 mins
 	- Rapidly degraded in liver & kidney
 - Used to treat *hypoglycaemia*
-## [[Absorptive & Post-Absorptive States#Postabsorptive State|Post-Absorptive State]]
+## [[Metabolic States#Postabsorptive State|Post-Absorptive State]]
 - Triggered by $\downarrow$ blood glucose or $\uparrow$ aa’s
 ![[Glucagon-20240709004616706.png]]
 ![[Glucagon-20240709005212670.png]]

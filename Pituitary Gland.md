@@ -1,4 +1,4 @@
-#Metabolism 
+#Growth
 
 - Also known as the **hypophysis**
 - Lies in the pocket of the **sphenoid bone** (base of the brain) 
