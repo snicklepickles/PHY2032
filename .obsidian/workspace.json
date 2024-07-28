@@ -11,8 +11,12 @@
             "id": "5f4349acb7dee142",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Actions of T3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pituitary Gland.md",
+                "file": "Metabolic States.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pituitary Gland.md",
+                "file": "Thyroid Gland.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pituitary Gland.md",
+                "file": "Thyroid Gland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pituitary Gland.md"
+                "file": "Thyroid Gland.md"
               }
             }
           }
@@ -181,11 +184,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "fd9da000ceb96d68",
+  "active": "c31d33dd80a92eef",
   "lastOpenFiles": [
-    "Pituitary Gland.md",
-    "Thyroid Gland.md",
     "Metabolic States.md",
+    "Actions of T3.md",
+    "Thyroid Gland.md",
+    "GH Disorders.md",
+    "images/Actions of T3-20240728193828154.png",
+    "Pituitary Gland.md",
+    "images/Thyroid Gland-20240728192646729.png",
     "Growth Hormone.md",
     "Type 2 Diabetes.md",
     "Type 1 Diabetes.md",
@@ -195,9 +202,7 @@
     "Stress.md",
     "Growth.md",
     "Glucagon.md",
-    "GH Disorders.md",
     "Diabetes.md",
-    "Actions of T3.md",
     "images/Pituitary Gland-20240709122537891.png",
     "images/Thyroid Gland-20240711211244549.png",
     "images/Diabetes Mellitus-20240709010028939.png",
@@ -206,8 +211,6 @@
     "images/Adrenal Gland-20240714151428615.png",
     "images/Adrenal Gland-20240714151356431.png",
     "images/Growth-20240714150536163.png",
-    "images/Growth-20240714150422901.png",
-    "images/Growth-20240714143755772.png",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
     "tsts.md",
