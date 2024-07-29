@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Type 1 Diabetes",
-      "path": "Type 1 Diabetes.md"
+      "basename": "Thyroid Gland",
+      "path": "Thyroid Gland.md"
+    },
+    {
+      "basename": "Growth Hormone",
+      "path": "Growth Hormone.md"
     },
     {
       "basename": "Pituitary Gland",
@@ -13,20 +17,24 @@
       "path": "Metabolic States.md"
     },
     {
+      "basename": "Glucagon",
+      "path": "Glucagon.md"
+    },
+    {
+      "basename": "Type 2 Diabetes",
+      "path": "Type 2 Diabetes.md"
+    },
+    {
+      "basename": "Type 1 Diabetes",
+      "path": "Type 1 Diabetes.md"
+    },
+    {
       "basename": "Insulin",
       "path": "Insulin.md"
     },
     {
-      "basename": "Growth Hormone",
-      "path": "Growth Hormone.md"
-    },
-    {
       "basename": "Growth",
       "path": "Growth.md"
-    },
-    {
-      "basename": "Glucagon",
-      "path": "Glucagon.md"
     },
     {
       "basename": "GH Disorders",
@@ -53,16 +61,8 @@
       "path": "Stress.md"
     },
     {
-      "basename": "Thyroid Gland",
-      "path": "Thyroid Gland.md"
-    },
-    {
       "basename": "Pancreas",
       "path": "Pancreas.md"
-    },
-    {
-      "basename": "Type 2 Diabetes",
-      "path": "Type 2 Diabetes.md"
     },
     {
       "basename": "Absorptive & Postabsorptive States-20240703172312927",

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Type 1 Diabetes.md",
+                "file": "Pituitary Gland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b8ec28c7998b73c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thyroid Gland.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Type 1 Diabetes.md",
+                "file": "Thyroid Gland.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Type 1 Diabetes.md",
+                "file": "Thyroid Gland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Type 1 Diabetes.md"
+                "file": "Thyroid Gland.md"
               }
             }
           }
@@ -183,14 +196,17 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "047f6954a257136a",
+  "active": "7b8ec28c7998b73c",
   "lastOpenFiles": [
+    "Growth Hormone.md",
     "Pituitary Gland.md",
     "Metabolic States.md",
-    "Insulin.md",
-    "Growth Hormone.md",
-    "Growth.md",
     "Glucagon.md",
+    "Type 2 Diabetes.md",
+    "Type 1 Diabetes.md",
+    "Thyroid Gland.md",
+    "Insulin.md",
+    "Growth.md",
     "GH Disorders.md",
     "Diabetes.md",
     "Adrenal Gland.md",
@@ -200,7 +216,6 @@
     "images/Diabetes Mellitus-20240709010028939.png",
     "Stress.md",
     "images/Thyroid Gland-20240711210014523.png",
-    "Thyroid Gland.md",
     "Pancreas.md",
     "images/Adrenal Gland-20240714151637818.png",
     "images/Adrenal Gland-20240714151428615.png",
@@ -208,8 +223,6 @@
     "images/Growth-20240714150536163.png",
     "images/Growth-20240714150422901.png",
     "images/Growth-20240714143755772.png",
-    "Type 2 Diabetes.md",
-    "Type 1 Diabetes.md",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
     "tsts.md",
