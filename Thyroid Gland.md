@@ -12,6 +12,7 @@
 - **Thyroid follicle cells** produce **T4** & **T3**
 	- Derivatives of tyrosine
 	- *90%* of thyroid output is **T4** (*prohormone*)
+		- Longer half-life than T3
 	- *10%* is **T3** (*active*)
 - Most $\text T_4$ → $\text T_3$ in target tissues by *deiodin**ases*** (peripheral conversion)
 	- Mostly by *type 1* deiodinase
@@ -65,7 +66,9 @@
 7. Lysosomal enzymes release $\text T_3$ & $\text T_4$ from thyroglobulin (proteolysis)
 8. $\text T_3$ & $\text T_4$ diffuse out of follicular cells → blood
 ![[Thyroid Gland-20240711212828373.png]]
-![[Thyroid Gland-20240711212802918.png]]
+- Sufficient iodinated thyroglobulin stores within follicles to provide thyroid hormone for several **weeks** in absence of dietary iodine
+	- Unique among endocrine glands
+	- Essential adaptation; unpredictable dietary iodine intake in most animals
 ## Secretion of TSH & T3/T4
 ![[Thyroid Gland-20240711213011607.png]]
 ## Transport of T3/T4 in Serum
