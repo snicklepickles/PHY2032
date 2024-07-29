@@ -58,3 +58,5 @@
 ![[Pituitary Gland-20240711204459729.png]]
 ## Negative Feedback of Hormones
 ![[Pituitary Gland-20240711204610234.png]]
+Long-loop: Cortisol, T3/T4 → anterior pituitary + hypothalamus
+Short-loop: prolactin → hypothalamus

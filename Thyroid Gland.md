@@ -13,26 +13,26 @@
 	- Derivatives of tyrosine
 	- *90%* of thyroid output is **T4** (*prohormone*)
 	- *10%* is **T3** (*active*)
-- Most $\text T_4$ → $\text T_3$ in target tissues by *deiodin**ases***
-	- Mostly by type 1 deiodinase
+- Most $\text T_4$ → $\text T_3$ in target tissues by *deiodin**ases*** (peripheral conversion)
+	- Mostly by *type 1* deiodinase
 		- In tissues with $\uparrow$ blood flow & exchange w/plasma
 		- E.g., liver, kidneys
 	- $\text T_3$ is the *major* thyroid hormone
 	- Despite $[\text T_{4_{\text{blood}}}]>[\text T_{3_\text{blood}}]$
 - Brain maintains constant $[\text T_{3_\text{intracellular}}]$
 	- Even when $\downarrow[\text T_{4_\text{blood}}]$
-	- Via action of high affinity type 2 deiodinase
+	- Via action of high affinity *type 2* deiodinase
 		- Expressed in glial cells of CNS
 ## Thyroid Gland
 - Largest endocrine gland in body (10-20 g)
 - Large blood flow (4-6 ml/min/g)
-- Larger in women than men
+- Larger in *women* than men
 	- Disorders affect 10$\times$ women vs. men
-- *Enlarges* during:
-	- Puberty
-	- Pregnancy
-	- Lactation
-	- Luteal phase of menstrual cycle
+	- *Enlarges* during:
+		- Puberty
+		- Pregnancy
+		- Lactation
+		- Luteal phase of menstrual cycle
 ### Thyroid Follicle
 ![[Thyroid Gland-20240711210621625.png]]
 - Functional unit
@@ -57,7 +57,7 @@
 1. Iodide ($\text I^-$) is actively co-transported with $\text{Na}^+$ across basal-lateral membrane of epithelial cell
 2. $\text I^-$ diffuse into colloid
 3. $\text I^-$ oxidised to iodine ($\text I_2$)
-4. Thyroglobulin synthesised in follicle cell; secreted by exocytosis to cytosol
+4. Thyroglobulin synthesised in follicle cell; secreted by exocytosis to colloid
 	- Contains 140 tyrosine residues (precursors for $\text T_3$/$\text T_4$)
 5. Iodine attached to phenolic rings of tyrosine residues in thyroglobulin
 	- Regulated by *thyroperoxidase*
@@ -72,5 +72,7 @@
 ![[Thyroid Gland-20240711213043723.png]]
 - **TBG** binds 75% of circulating $\text T_3$/$\text T_4$
 	- Synthesised in liver
-	- Only $\Delta[\text{TBG}]$ significantly affects $[T_{3_\text{plasma}}]$ & $[T_{4_\text{plasma}}]$
-- **TTR** binds 10% of circulating $\text T_3$/$\text T_4$
+	- Binds 1 molecule of $\text T_3$/$\text T_4$
+- **TTR** binds 10-15% of circulating $\text T_3$/$\text T_4$
+- Only $\Delta[\text{TBG}]$ *significantly* affects $[T_{3_\text{plasma}}]$ & $[T_{4_\text{plasma}}]$
+![[Thyroid Gland-20240728192646729.png]]
