@@ -57,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goiter.md",
+                "file": "Thyroid Disorders.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thyroid Gland.md",
+                "file": "Thyroid Disorders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thyroid Gland.md",
+                "file": "Thyroid Disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thyroid Gland.md"
+                "file": "Thyroid Disorders.md"
               }
             }
           }
@@ -204,11 +204,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "7b8ec28c7998b73c",
+  "active": "932cea6ba986910d",
   "lastOpenFiles": [
-    "Actions of T3.md",
     "Thyroid Gland.md",
-    "Goiter.md",
+    "Thyroid Disorders.md",
+    "images/Goiter-20240729113038075.png",
+    "Actions of T3.md",
     "images/Goiter-20240729111931351.png",
     "Pituitary Gland.md",
     "conflict-files-obsidian-git.md",
@@ -232,7 +233,6 @@
     "Pancreas.md",
     "images/Adrenal Gland-20240714151637818.png",
     "images/Adrenal Gland-20240714151428615.png",
-    "images/Adrenal Gland-20240714151356431.png",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
     "tsts.md",
