@@ -21,14 +21,22 @@
 ## Hyperthyroidism & Hypothyroidism
 ![[Goiter-20240729113038075.png]]https://www.youtube.com/watch?v=D4VL6c8EVrU
 
-
 Hard to measure TRH
 * Produced in hypothamalus
 * Little enters general circulation
 * Look at TSH & T3/T4 instead
 * Then inject with TRH and see response
 
-Hypothalamiic tumour
+Hypothalamic tumour
 TRH → TSH → t3/t4
 anterior pituitary:
 TRH → cannot produce TSH → low T3/t4
+
+|                                        | Primary Hypothyroidism/ Secondary Hyperthyroidism | Graves’ Disease | Hashimoto’s Disease | TRH-Secreting Tumour | TSH-Secreting Tumour | TRH-Suppressing Tumour | TSH-Suppressing Tumour |
+| -------------------------------------- | ------------------------------------------------- | --------------- | ------------------- | -------------------- | -------------------- | ---------------------- | ---------------------- |
+| TRH levels                             | HIGH                                              | LOW             | HIGH                | HIGH                 | LOW                  | LOW                    | HIGH                   |
+| TSH levels                             | HIGH                                              | LOW             | HIGH                | HIGH                 | HIGH                 | LOW                    | LOW                    |
+| T3 and T4 levels                       | LOW                                               | HIGH            | LOW                 | HIGH                 | HIGH                 | LOW                    | LOW                    |
+| Antibodies or immunoglobulins present? | NO                                                | YES             | YES                 | NO                   | NO                   | NO                     | NO                     |
+| Goiter present?                        | YES                                               | YES             | YES (POSSIBLE)      | YES (POSSIBLE)       | YES                  | NO                     | NO                     |
+| Is patient hypo or hyper-thyroid?      | HYPO                                              | HYPER           | HYPO                | HYPER                | HYPER                | HYPO                   | HYPO                   |
