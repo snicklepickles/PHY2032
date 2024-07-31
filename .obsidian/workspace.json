@@ -55,16 +55,12 @@
             "id": "932cea6ba986910d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thyroid Disorders.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -138,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thyroid Disorders.md",
+                "file": "Adrenal Gland.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thyroid Disorders.md",
+                "file": "Adrenal Gland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,17 +175,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thyroid Disorders.md"
+                "file": "Adrenal Gland.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,18 +200,25 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "932cea6ba986910d",
+  "active": "3115e7ffe368fcfc",
   "lastOpenFiles": [
-    "images/Thyroid Disorders-20240731160957465.png",
-    "Thyroid Gland.md",
+    "images/Adrenal Gland-20240731170337771.png",
+    "images/Adrenal Gland-20240731170325032.png",
+    "images/Adrenal Gland-20240731165625524.png",
+    "images/Adrenal Gland-20240731165412940.png",
+    "Adrenal Gland.md",
+    "images/Adrenal Gland-20240731165131595.png",
+    "images/Adrenal Gland-20240731165041290.png",
+    "images/Adrenal Gland-20240731164717829.png",
+    "images/Adrenal Gland-20240731164600120.png",
+    "images/Adrenal Gland-20240731164457046.png",
+    "images/Adrenal Gland-20240731164449868.png",
+    "images/Adrenal Gland-20240731164238402.png",
     "Thyroid Disorders.md",
-    "images/Goiter-20240729113038075.png",
+    "Thyroid Gland.md",
     "Actions of T3.md",
-    "images/Goiter-20240729111931351.png",
     "Pituitary Gland.md",
     "conflict-files-obsidian-git.md",
-    "images/Thyroid Gland-20240728192646729.png",
-    "images/Actions of T3-20240728193828154.png",
     "Growth Hormone.md",
     "Metabolic States.md",
     "Glucagon.md",
@@ -225,15 +228,8 @@
     "Growth.md",
     "GH Disorders.md",
     "Diabetes.md",
-    "Adrenal Gland.md",
-    "images/Pituitary Gland-20240709122537891.png",
-    "images/Thyroid Gland-20240711211244549.png",
-    "images/Diabetes Mellitus-20240709010028939.png",
     "Stress.md",
-    "images/Thyroid Gland-20240711210014523.png",
     "Pancreas.md",
-    "images/Adrenal Gland-20240714151637818.png",
-    "images/Adrenal Gland-20240714151428615.png",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
     "tsts.md",
