@@ -58,9 +58,25 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f2acb4d265117dac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "076b052783c2256d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -135,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adrenal Gland.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adrenal Gland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Adrenal Gland.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -200,20 +212,19 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3115e7ffe368fcfc",
+  "active": "076b052783c2256d",
   "lastOpenFiles": [
+    "Adrenal Gland.md",
     "images/Adrenal Gland-20240731170337771.png",
     "images/Adrenal Gland-20240731170325032.png",
     "images/Adrenal Gland-20240731165625524.png",
     "images/Adrenal Gland-20240731165412940.png",
-    "Adrenal Gland.md",
     "images/Adrenal Gland-20240731165131595.png",
     "images/Adrenal Gland-20240731165041290.png",
     "images/Adrenal Gland-20240731164717829.png",
     "images/Adrenal Gland-20240731164600120.png",
     "images/Adrenal Gland-20240731164457046.png",
     "images/Adrenal Gland-20240731164449868.png",
-    "images/Adrenal Gland-20240731164238402.png",
     "Thyroid Disorders.md",
     "Thyroid Gland.md",
     "Actions of T3.md",
