@@ -14,7 +14,7 @@
 ![[Growth Hormone-20240714131037788.png]]
 ![[Growth Hormone-20240714131855066.png]]
 - *Postprandial*: following a meal
-- Some factors relate to GH’s role in [[Glucagon#Glucose Counter-Regulatory Hormones|glucose counter-regulation]], not growth
+- Some factors relate to GH’s role in [[Glucose Counter-Regulatory Hormones|glucose counter-regulation]], not growth
 ![[Growth Hormone-20240714131957108.png]]
 ![[Growth Hormone-20240714132035325.png]]
 ## Mechanism of Action
