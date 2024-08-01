@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stress.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stress.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,12 +162,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "ddbc2cdebdfad119",
+  "active": "5f4349acb7dee142",
   "lastOpenFiles": [
+    "Stress.md",
     "images/Stress-20240801194042816.png",
     "images/Stress-20240801194025092.png",
     "images/Stress-20240801193819617.png",
-    "Stress.md",
     "images/Stress-20240801193602803.png",
     "images/Stress-20240801193500104.png",
     "images/Stress-20240801193334418.png",
@@ -190,7 +185,6 @@
     "Glucagon.md",
     "images/Cortisol-20240801185858306.png",
     "images/Cortisol-20240801185430270.png",
-    "images/Cortisol-20240801185353555.png",
     "Type 1 Diabetes.md",
     "Pituitary Gland.md",
     "Actions of T3.md",

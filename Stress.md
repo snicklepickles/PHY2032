@@ -49,6 +49,10 @@
 	- Cortisol levels remain high and ANS is once again activated
 	- Leading to raised heart rate, sweating, etc.
 	- If exhaustion phase is extended, long-term damage may result
-		- Prolonged vasoconstriction → ischemia → cell necrosis → heart attacks
 		![[Stress-20240801194025092.png|356]]
 		![[Stress-20240801194042816.png|381]]
+	- Prolonged vasoconstriction → ischemia → cell necrosis → heart attacks
+	- Continual protein & triglyceride catabolism → AA’s & glycerol released into blood → gluconeogenesis in liver
+		- Major problem for people with diabetes
+	- Chronic elevation in cortisol can decrease reproductive fertility, delay puberty, and suppress growth during childhood
+		- Processes are non-essential for survival
