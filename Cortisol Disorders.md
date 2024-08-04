@@ -1,0 +1,38 @@
+#Stress 
+## Adrenal Insufficiency
+- Also known as Addison’s disease
+- Infections are usually fatal in the *absence* of cortisol
+- **Symptoms:**
+	- Weakness
+	- Fatigue
+	- Loss of appetite
+	- Loss of weight
+	- Increased skin pigmentation
+	- Low blood sugar levels
+- Due to loss of adrenocortical function (primary)
+	- Normally caused by *autoimmune* disease
+	- *All* zones of the adrenal cortex are affected
+- Aldosterone levels also decrease → *hypotension*
+- Treatment: 
+	- Daily oral administration of glucocorticoids & mineralocorticoids
+## Cushing’s Syndrome
+- Caused by *excess* circulating cortisol
+- Due to:
+	- Cortisol-secreting tumour of the adrenal gland (primary)
+	- ACTH-secreting tumour of the anterior pituitary (secondary)
+	- Pharmacological use of exogenous corticosteroids
+		- Most *common* cause
+- Increased cortisol promotes catabolism of bone, muscle, skin & other organs
+	- Bone strength diminishes
+	- Muscles weaken
+	- Skin becomes easily bruised
+- Cortisol-induced tissue catabolism causes blood sugar levels to increase to those observed in diabetes mellitus
+- Fat is lost from extremities
+	- Redistributes in trunk, face & back
+	- Cortisol also triggers increased appetite
+		- Patients can quickly develop abdominal obesity
+- Suppresses the immune system
+- Can potentially cause *hypertension*
+- Treatment:
+	- Cessation of corticosteroid treatment
+	- Surgical removal of tumour
