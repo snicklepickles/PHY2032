@@ -21,10 +21,7 @@
 ![[Adrenal Gland-20240731164717829.png|209]]
 - Neuronal stimulation → depol. → $\uparrow\text{Ca}^{2+}$ → release
 	- Almost *instantaneous*
-<<<<<<< HEAD
 	- 80% adrenaline, 20% noradrenaline
-=======
->>>>>>> origin/main
 ## Adrenal Cortex
 ![[Adrenal Gland-20240731165412940.png|511]]
 - Secretes hormones that help:
@@ -39,11 +36,7 @@
 - Abundant lipid droplets, mitochondria & smooth ER
 - Largest layer (80%)
 ### Zona reticularis
-<<<<<<< HEAD
-- Produces DHEA, DHEA sulphate, androstenedione (testosterone precursor)C
-=======
 - Produces DHEA, DHEA sulphate, androstenedione (testosterone precursor)
->>>>>>> origin/main
 - Small cells, contain little cytoplasm & lipid droplets
 - Form irregular cords & clusters separated by capillary tissue
 ### Steroid Synthesis

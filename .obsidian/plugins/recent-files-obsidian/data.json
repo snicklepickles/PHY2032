@@ -5,16 +5,20 @@
       "path": "Cortisol.md"
     },
     {
-      "basename": "Cortisol Disorders",
-      "path": "Cortisol Disorders.md"
-    },
-    {
       "basename": "Adrenal Gland",
       "path": "Adrenal Gland.md"
     },
     {
       "basename": "Adrenaline",
       "path": "Adrenaline.md"
+    },
+    {
+      "basename": "Actions of T3",
+      "path": "Actions of T3.md"
+    },
+    {
+      "basename": "Cortisol Disorders",
+      "path": "Cortisol Disorders.md"
     },
     {
       "basename": "Pituitary Gland",
@@ -55,10 +59,6 @@
     {
       "basename": "Type 1 Diabetes",
       "path": "Type 1 Diabetes.md"
-    },
-    {
-      "basename": "Actions of T3",
-      "path": "Actions of T3.md"
     },
     {
       "basename": "Metabolic States",
