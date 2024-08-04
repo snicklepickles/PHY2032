@@ -1,6 +1,6 @@
 #Stress 
 ## Adrenal Insufficiency
-- Also known as Addison’s disease
+- Also known as *Addison’s disease*
 - Infections are usually fatal in the *absence* of [[Cortisol|cortisol]]
 - **Symptoms:**
 	- Weakness
@@ -12,7 +12,7 @@
 - Due to loss of adrenocortical function (primary)
 	- Normally caused by *autoimmune* disease
 	- *All* zones of the adrenal cortex are affected
-- Aldosterone levels also decrease → *hypotension*
+		- Aldosterone levels decrease → *hypotension*
 - Treatment: 
 	- Daily oral administration of glucocorticoids & mineralocorticoids
 ## Cushing’s Syndrome
@@ -21,8 +21,8 @@
 	- Cortisol-secreting tumour of the adrenal gland (primary)
 	- ACTH-secreting tumour of the anterior pituitary (secondary)
 	- Pharmacological use of exogenous corticosteroids
-		- Most *common* cause
-- Increased cortisol promotes catabolism of bone, muscle, skin & other organs
+		- Most *common* cause in modern day
+- Increased cortisol promotes *catabolism* of bone, muscle, skin & other organs
 	- Bone strength diminishes
 	- Muscles weaken
 	- Skin becomes easily bruised
@@ -30,7 +30,7 @@
 - Fat is lost from extremities
 	- Redistributes in trunk, face & back
 	- Cortisol also triggers increased appetite
-		- Patients can quickly develop abdominal obesity
+		- Patients can quickly develop abdominal *obesity*
 - Suppresses the immune system
 - Can potentially cause *hypertension*
 - Treatment:

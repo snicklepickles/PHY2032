@@ -5,6 +5,10 @@
       "path": "Cortisol.md"
     },
     {
+      "basename": "Adrenal Gland Disorders",
+      "path": "Adrenal Gland Disorders.md"
+    },
+    {
       "basename": "Adrenal Gland",
       "path": "Adrenal Gland.md"
     },
@@ -13,24 +17,28 @@
       "path": "Adrenaline.md"
     },
     {
-      "basename": "Actions of T3",
-      "path": "Actions of T3.md"
+      "basename": "Growth Hormone",
+      "path": "Growth Hormone.md"
     },
     {
-      "basename": "Cortisol Disorders",
-      "path": "Cortisol Disorders.md"
+      "basename": "GH Disorders",
+      "path": "GH Disorders.md"
     },
     {
       "basename": "Pituitary Gland",
       "path": "Pituitary Gland.md"
     },
     {
-      "basename": "Thyroid Gland",
-      "path": "Thyroid Gland.md"
-    },
-    {
       "basename": "Stress",
       "path": "Stress.md"
+    },
+    {
+      "basename": "Actions of T3",
+      "path": "Actions of T3.md"
+    },
+    {
+      "basename": "Thyroid Gland",
+      "path": "Thyroid Gland.md"
     },
     {
       "basename": "Glucose Counter-Regulatory Hormones",
@@ -47,10 +55,6 @@
     {
       "basename": "Growth",
       "path": "Growth.md"
-    },
-    {
-      "basename": "Growth Hormone",
-      "path": "Growth Hormone.md"
     },
     {
       "basename": "Glucagon",
@@ -71,10 +75,6 @@
     {
       "basename": "Diabetes",
       "path": "Diabetes.md"
-    },
-    {
-      "basename": "GH Disorders",
-      "path": "GH Disorders.md"
     },
     {
       "basename": "Insulin",

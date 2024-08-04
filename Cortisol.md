@@ -6,11 +6,7 @@
 ![[Cortisol-20240801182722274.png|689]]
 - ACTH stimulates cortisol production:
 	- Increases $[\text{cholesterol}]$ in inner mitochondrial membrane
-		- Via regulation of the steroidogenic acute regulatory protein (**StAR**) 
-		- Cholesterol transfer is rate-limiting step
-- ACTH stimulates cortisol production:
-	- Increases $[\text{cholesterol}]$ in inner mitochondrial membrane
-		- Via regulation of the steroidogenic acute regulatory protein
+		- Via regulation of the steroidogenic acute regulatory protein (**StAR**)
 	- Increases production of the enzyme **CYP11A1**
 		- Cholesterol → pregnenolone is rate-limiting step
 ## Cortisol Secretion
@@ -35,9 +31,9 @@
 ## Physiological Actions
 ![[Cortisol-20240801190237616.png]]
 - Partitions energy to cope with stress by inhibiting non-essential functions with high anabolic cost:
-	- Reproduction and growth
+	- E.g., reproduction and growth
 ### Metabolic Actions
-- Glucocorticoid → regulates blood glucose
+- *Gluco*corticoid → regulates blood glucose
 - Cortisol is a major [[Glucose Counter-Regulatory Hormones|glucose counter-regulatory hormone]]
 - Role is minimal during fed state
 - Important during *fasting* to maintain:
@@ -62,40 +58,3 @@
 - Cortisol decreases the function of the reproductive axis at the hypothalamic, pituitary & gonadal levels
 - Chronic elevation of cortisol inhibits GH-IGF-1 axis
 	- Reduction in linear growth
-## Adrenal Insufficiency
-- Also known as Addison’s disease
-- Infections are usually fatal in the *absence* of cortisol
-- **Symptoms:**
-	- Weakness
-	- Fatigue
-	- Loss of appetite
-	- Loss of weight
-	- Increased skin pigmentation
-	- Low blood sugar levels
-- Due to loss of adrenocortical function (primary)
-	- Normally caused by *autoimmune* disease
-	- *All* zones of the adrenal cortex are affected
-- Aldosterone levels also decrease → *hypotension*
-- Treatment: 
-	- Daily oral administration of glucocorticoids & mineralocorticoids
-## Cushing’s Syndrome
-- Caused by *excess* circulating cortisol
-- Due to:
-	- Cortisol-secreting tumour of the adrenal gland (primary)
-	- ACTH-secreting tumour of the anterior pituitary (secondary)
-	- Pharmacological use of exogenous corticosteroids
-		- Most *common* cause
-- Increased cortisol promotes catabolism of bone, muscle, skin & other organs
-	- Bone strength diminishes
-	- Muscles weaken
-	- Skin becomes easily bruised
-- Cortisol-induced tissue catabolism causes blood sugar levels to increase to those observed in diabetes mellitus
-- Fat is lost from extremities
-	- Redistributes in trunk, face & back
-	- Cortisol also triggers increased appetite
-		- Patients can quickly develop abdominal obesity
-- Suppresses the immune system
-- Can potentially cause *hypertension*
-- Treatment:
-	- Cessation of corticosteroid treatment
-	- Surgical removal of tumour
