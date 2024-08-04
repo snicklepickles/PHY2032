@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adrenal Gland.md",
+                "file": "Cortisol.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adrenal Gland.md",
+                "file": "Cortisol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adrenal Gland.md",
+                "file": "Cortisol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adrenal Gland.md"
+                "file": "Cortisol.md"
               }
             }
           }
@@ -223,10 +223,10 @@
   },
   "active": "0c8443cce3abdc02",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Cortisol Disorders.md",
-    "Adrenaline.md",
     "Adrenal Gland.md",
+    "conflict-files-obsidian-git.md",
+    "Adrenaline.md",
     "Cortisol.md",
     "Pituitary Gland.md",
     "Thyroid Gland.md",
