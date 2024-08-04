@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c8443cce3abdc02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adrenal Gland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cortisol Disorders.md",
+                "file": "Adrenal Gland.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cortisol Disorders.md",
+                "file": "Adrenal Gland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cortisol Disorders.md"
+                "file": "Adrenal Gland.md"
               }
             }
           }
@@ -209,12 +221,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d0df237f91e0d21a",
+  "active": "0c8443cce3abdc02",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Cortisol Disorders.md",
     "Adrenaline.md",
     "Adrenal Gland.md",
     "Cortisol.md",
-    "Cortisol Disorders.md",
     "Pituitary Gland.md",
     "Thyroid Gland.md",
     "images/Stress-20240801194042816.png",
@@ -231,7 +244,6 @@
     "Glucose Counter-Regulatory Hormones.md",
     "Thyroid Disorders.md",
     "Actions of T3.md",
-    "conflict-files-obsidian-git.md",
     "Growth Hormone.md",
     "Metabolic States.md",
     "Glucagon.md",
