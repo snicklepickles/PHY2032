@@ -1,7 +1,7 @@
 #Stress 
 ## Adrenal Insufficiency
 - Also known as Addison’s disease
-- Infections are usually fatal in the *absence* of cortisol
+- Infections are usually fatal in the *absence* of [[Cortisol|cortisol]]
 - **Symptoms:**
 	- Weakness
 	- Fatigue
