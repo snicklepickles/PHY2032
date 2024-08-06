@@ -9,7 +9,7 @@
 	- Loss of weight
 	- Increased skin pigmentation
 	- Low blood sugar levels
-- Due to loss of adrenocortical function (primary)
+- Due to loss of [[Adrenal Gland#Adrenal Cortex||adrenocortical function]] (primary)
 	- Normally caused by *autoimmune* disease
 	- *All* zones of the adrenal cortex are affected
 		- Aldosterone levels decrease → *hypotension*

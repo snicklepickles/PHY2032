@@ -11,84 +11,23 @@
             "id": "047f6954a257136a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pituitary Gland.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3115e7ffe368fcfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adrenal Gland.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26a70a82d32aa02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adrenaline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0df237f91e0d21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cortisol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e53d8d7e27a9881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adrenal Gland Disorders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24fcdd0482d4a793",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "95b30a7f8ce74a2c",
+            "id": "15e4af2c70f66906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Growth Hormone.md",
+                "file": "Calcium Homeostasis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cortisol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cortisol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cortisol.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -211,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,33 +159,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-file-cleaner:Clean files": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "d0df237f91e0d21a",
+  "active": "047f6954a257136a",
   "lastOpenFiles": [
+    "Calcium Homeostasis.md",
+    "images/Calcium Homeostasis-20240806190447960.png",
+    "images/Calcium Homeostasis-20240806190317570.png",
+    "images/Calcium Homeostasis-20240806190054679.png",
+    "images/Calcium Homeostasis-20240806185737950.png",
+    "images/Calcium Homeostasis-20240806185026840.png",
+    "images/Calcium Homeostasis-20240806184847098.png",
+    "images/Calcium Homeostasis-20240806184754325.png",
+    "images/Calcium Homeostasis-20240806184525084.png",
+    "images/Calcium Homeostasis-20240806184021761.png",
+    "Actions of T3.md",
+    "Growth Hormone.md",
     "Adrenal Gland Disorders.md",
-    "Cortisol.md",
     "Adrenal Gland.md",
     "Adrenaline.md",
-    "Growth Hormone.md",
-    "GH Disorders.md",
     "Pituitary Gland.md",
     "Stress.md",
-    "Actions of T3.md",
+    "Cortisol.md",
+    "GH Disorders.md",
     "conflict-files-obsidian-git.md",
     "Thyroid Gland.md",
     "images/Stress-20240801194042816.png",
-    "images/Stress-20240801194025092.png",
-    "images/Stress-20240801193819617.png",
-    "images/Stress-20240801193602803.png",
-    "images/Stress-20240801193500104.png",
-    "images/Stress-20240801193334418.png",
-    "images/Stress-20240801192751484.png",
-    "images/Cortisol-20240801190237616.png",
-    "images/Cortisol-20240801185858306.png",
-    "images/Cortisol-20240801185430270.png",
     "Glucose Counter-Regulatory Hormones.md",
     "Thyroid Disorders.md",
     "Metabolic States.md",
@@ -270,7 +204,6 @@
     "Excalidraw",
     "2024-07-03.md",
     "images",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }

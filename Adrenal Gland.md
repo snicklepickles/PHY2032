@@ -47,7 +47,7 @@
 - Recall [[Pituitary Gland#Hypophysiotropic Hormones|hypophysiotropic hormones]]
 - Circadian rhythm & stress → parvocellular neurones in PVN → CRH to hypophyseal portal blood → ACTH 
 	- Vasopressin can also promote ACTH release
-- ACTH → receptors on adrenal cortex → steroid hormone production ($\uparrow$ activity of steroidogenic enzymes)
+- ACTH → receptors on adrenal cortex → steroid hormone production ($\uparrow$ activity of steroidogenic enzymes)2
 ![[Adrenal Gland-20240801181535664.png]]
 - Cortisol: *negative* feedback to the pituitary & hypothalamus
 	- $\downarrow$ ACTH & CRH production
