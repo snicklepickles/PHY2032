@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Bone Disease",
+      "path": "Bone Disease.md"
+    },
+    {
+      "basename": "Vitamin D",
+      "path": "Vitamin D.md"
+    },
+    {
+      "basename": "Parathyroid Hormone",
+      "path": "Parathyroid Hormone.md"
+    },
+    {
+      "basename": "Calcitonin",
+      "path": "Calcitonin.md"
+    },
+    {
       "basename": "Calcium Homeostasis",
       "path": "Calcium Homeostasis.md"
+    },
+    {
+      "basename": "Thyroid Gland",
+      "path": "Thyroid Gland.md"
     },
     {
       "basename": "Actions of T3",
@@ -39,10 +59,6 @@
     {
       "basename": "GH Disorders",
       "path": "GH Disorders.md"
-    },
-    {
-      "basename": "Thyroid Gland",
-      "path": "Thyroid Gland.md"
     },
     {
       "basename": "Glucose Counter-Regulatory Hormones",

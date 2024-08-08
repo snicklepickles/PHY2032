@@ -11,23 +11,52 @@
             "id": "047f6954a257136a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calcitonin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "15e4af2c70f66906",
+            "id": "e367cfe914b613f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calcium Homeostasis.md",
+                "file": "Vitamin D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0a217df8f7f26b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bone Disease.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "200444c70b741ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parathyroid Hormone.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -101,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bone Disease.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bone Disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bone Disease.md"
+              }
             }
           }
         ],
@@ -146,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,18 +197,24 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "047f6954a257136a",
+  "active": "b0a217df8f7f26b2",
   "lastOpenFiles": [
+    "Vitamin D.md",
+    "Parathyroid Hormone.md",
+    "Calcitonin.md",
+    "Bone Disease.md",
+    "images/Bone Disease-20240808222918496.png",
+    "images/Bone Disease-20240808221739591.png",
+    "images/Bone Disease-20240808221147620.png",
+    "images/Bone Disease-20240808220530249.png",
     "Calcium Homeostasis.md",
-    "images/Calcium Homeostasis-20240806190447960.png",
-    "images/Calcium Homeostasis-20240806190317570.png",
-    "images/Calcium Homeostasis-20240806190054679.png",
-    "images/Calcium Homeostasis-20240806185737950.png",
-    "images/Calcium Homeostasis-20240806185026840.png",
-    "images/Calcium Homeostasis-20240806184847098.png",
-    "images/Calcium Homeostasis-20240806184754325.png",
-    "images/Calcium Homeostasis-20240806184525084.png",
-    "images/Calcium Homeostasis-20240806184021761.png",
+    "images/Calcitonin-20240808214516285.png",
+    "images/Vitamin D-20240808214157311.png",
+    "images/1,25-Dihydroxyvitamin D-20240808212303443.png",
+    "Thyroid Gland.md",
+    "images/Parathyroid Gland-20240808211631513.png",
+    "images/Parathyroid Gland-20240808211606287.png",
+    "images/Parathyroid Gland-20240808211427765.png",
     "Actions of T3.md",
     "Growth Hormone.md",
     "Adrenal Gland Disorders.md",
@@ -184,8 +225,6 @@
     "Cortisol.md",
     "GH Disorders.md",
     "conflict-files-obsidian-git.md",
-    "Thyroid Gland.md",
-    "images/Stress-20240801194042816.png",
     "Glucose Counter-Regulatory Hormones.md",
     "Thyroid Disorders.md",
     "Metabolic States.md",
@@ -195,14 +234,10 @@
     "Insulin.md",
     "Growth.md",
     "Diabetes.md",
-    "Pancreas.md",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
-    "tsts.md",
-    "Excalidraw/Drawing 2024-07-03 17.27.04.excalidraw.md",
     "Excalidraw/images",
     "Excalidraw",
-    "2024-07-03.md",
     "images",
     "Untitled.canvas"
   ]

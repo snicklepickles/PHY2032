@@ -9,14 +9,22 @@
 - $\text{Ca}^{2+}$ is the soluble, ionised form
 - Large proportion of calcium exists in active form
 ![[Calcium Homeostasis-20240806184847098.png]]
+![[Calcium Homeostasis-20240808205203880.png]]
 ## Bone
+- Dense connective tissue made up of several cell types
+	- Surrounded by a collagen matrix (*osteoid*)
 - 99% of total body calcium is stored in bone
 - Movement in/out is critical in controlling $[\text{Ca}^{+2}_{\text{plasma}}]$
 	- By actions of osteoclasts & osteoblasts
 ![[Calcium Homeostasis-20240806185026840.png]]
-- Minerals are deposited on osteoid
+- Minerals are deposited on *osteoid*
 	- Particularly the crystals of calcium, phosphate, and hydroxyl ions (**hydroxyapatite**)
 ### Bone Remodelling
+- The cycle of bone *resorption* and new bone *deposition*
+- Depends on systemic hormone action for an adequate supply of calcium & phosphate
+- Depends on local hormones for communication between osteoblasts & osteoclasts
+![[Calcium Homeostasis-20240808205510114.png]]
+- **Red** line = **inhibition**, black line = stimulation
 ![[Calcium Homeostasis-20240806185737950.png]]
 #### Osteoclasts
 - Originate from *hematopoietic* stem cells
@@ -51,3 +59,19 @@
 - *Post-menopausal* osteoporosis is associated with high level of bone remodelling
 	- Excess RANKL > OPG
 ## Kidney
+- Effector sites for calcium regulation
+- Filter the blood and eliminate soluble wastes
+- In the process, cells in the tubules reabsorb most of the necessary solutes that were filtered
+	- Minimises loss in urine
+- Urinary excretion of $\text{Ca}^{2+}$ = amount filtered into tubules - amount reabsorbed and returned to the blood
+![[Calcium Homeostasis-20240808204344481.png]]
+- *Control* of calcium excretion is exerted mainly on *reabsorption*
+	- Via [[Parathyroid Hormone]]
+## GI Tract
+![[Calcium Homeostasis-20240808204329740.png]]
+- Absorption of most solutes (sodium, potassium) from GI → blood is normally 100%
+- Considerable amount of ingested $\text{Ca}^{2+}$ is *not* absorbed from the small intestine
+	- Leaves body in faeces
+- Under [[Parathyroid Hormone|parathyroid gland]], large regulated increases/decreases can occur in amount of $\text{Ca}^{2+}$ absorbed
+- *Hormonal control* of calcium absorption is the *major* means for regulating total-body-calcium balance
+	- See [[Parathyroid Hormone]], [[Vitamin D]] & [[Calcitonin]]
