@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bone Disease.md",
+                "file": "Parathyroid Hormone.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bone Disease.md",
+                "file": "Parathyroid Hormone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bone Disease.md"
+                "file": "Parathyroid Hormone.md"
               }
             }
           }
@@ -197,12 +196,13 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "b0a217df8f7f26b2",
+  "active": "200444c70b741ba5",
   "lastOpenFiles": [
+    "Calcitonin.md",
+    "Untitled.md",
+    "Bone Disease.md",
     "Vitamin D.md",
     "Parathyroid Hormone.md",
-    "Calcitonin.md",
-    "Bone Disease.md",
     "images/Bone Disease-20240808222918496.png",
     "images/Bone Disease-20240808221739591.png",
     "images/Bone Disease-20240808221147620.png",
